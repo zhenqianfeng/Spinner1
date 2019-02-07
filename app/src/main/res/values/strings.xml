@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner1</string>
+
+    <string name="tip_mount_prompt">Choose a tip amount</string>
+    <string-array name="tip_array">
+        <item>Large - 25%</item>
+        <item>Normal Service - 20%</item>
+        <item>Not that great - 15%</item>
+        <item>Not good - 10%</item>
+    </string-array>
+
+</resources>
